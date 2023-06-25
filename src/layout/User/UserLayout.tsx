@@ -6,7 +6,7 @@ import Footer from '../../components/Footer/Footer'
 
 const UserLayout: React.FC = () => {
   return (
-    <div className='container'>
+    <div className='container-fluid base'>
         <div className="header">
             <Header/>
         </div>
